@@ -14,6 +14,7 @@ Program mendukung dua jenis film: Film Action dan Film Drama.
        • Film Drama → tema cerita & tokoh utama (pria/wanita).  
      Data film baru ditambahkan ke daftar.
 
+<img width="650" height="641" alt="image" src="https://github.com/user-attachments/assets/9961e0be-0e3c-467e-80c5-817c1a5b397b" />
 
 
    - **2. Lihat Film**  
