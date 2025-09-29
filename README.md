@@ -87,8 +87,9 @@ Program mendukung dua jenis film: Film Action dan Film Drama.
   - Method `tambahFilm()` di `Main.java` dibuat dua versi:
     - `tambahFilm(Scanner scanner, FilmService service)` (untuk tambah baru)
 
+<img width="999" height="90" alt="image" src="https://github.com/user-attachments/assets/962e5853-56e4-42c5-86f7-64c8a92fe770" />
 
     
     - `tambahFilm(Scanner scanner, FilmService service, int updateIndex)` (untuk update data film)
    
-
+<img width="1294" height="195" alt="image" src="https://github.com/user-attachments/assets/614649cf-8ce2-4973-9303-be7264742f29" />
